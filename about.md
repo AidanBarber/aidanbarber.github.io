@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Aidan is masters student under supervisor Dr. Scott Noklby in the MARS lab at Ontario Tech university.
+Aidan is masters student under supervisor Dr. Scott Nokleby in the MARS lab at Ontario Tech university.
 
 ### Current Research
 
