@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Aidan is masters student under supervisor Dr. Scott Noklby in the MARS lab at Ontario Tech university.
 
-### More Information
+### Current Research
 
-A place to include any other types of information that you'd like to include about yourself.
+Current research topics include BVLOS RPAS and legged robots.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[e.aidanbarber@gmail.com](mailto:e.aidanbarber@gmail.com)
