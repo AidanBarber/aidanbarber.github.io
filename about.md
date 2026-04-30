@@ -8,7 +8,7 @@ Aidan is masters student under supervisor Dr. Scott Nokleby in the MARS lab at O
 
 ### Current Research
 
-Current research topics include BVLOS RPAS and legged robots.
+Current research topics include multi-modal robots, path planning, and mapping.
 
 ### Contact me
 
